@@ -1,0 +1,17 @@
+# curl -X GET --location "http://localhost:8080/books"
+#    -H "Accept: application/json"
+#    -H "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJib29rc3RvcmUiLCJzdWIiOiJmaXJzdFVzZXIiLCJpc3MiOiJhdXRoLXNlcnZpY2UiLCJleHAiOjE2NDE3MzE5MjgsImlhdCI6MTY0MTczMTYyOH0.--8y5a5k6ktMrORCbNi9MsWjCkRknafAJnSLMK_6BKo"
+GET http://localhost:8080/books
+Accept: application/json
+Authorization: Bearer e1yJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJib29rc3RvcmUiLCJzdWIiOiJmaXJzdFVzZXIiLCJpc3MiOiJhdXRoLXNlcnZpY2UiLCJleHAiOjE2NDE3MzE5MjgsImlhdCI6MTY0MTczMTYyOH0.--8y5a5k6ktMrORCbNi9MsWjCkRknafAJnSLMK_6BKo
+
+###
+
+
+
+
+
+
+
+
+
